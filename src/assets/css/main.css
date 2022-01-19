@@ -60,7 +60,6 @@
   --extraSmallText: 0.7em;
   /* rest */
   --backgroundColor: var(--grey-0);
-  --backgroundColor: red;
   --textColor: var(--grey-1000);
   --borderRadius: 0.25rem;
   --letterSpacing: 1px;
